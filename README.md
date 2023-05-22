@@ -11,8 +11,13 @@ The short list of supported commands:
 --------------------------
 
 help - print out commands with description.
+
 cls - clear the screen.
+
 reboot - reboot the machine.
+
 create  - create file.
+
 edit - write in file.
+
 del- delete file.
